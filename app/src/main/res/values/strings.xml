@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReadBooks</string>
+    <string name="nombreManga">Introduce el nombre del manga</string>
+    <string name="autorManga">Introduce el nombre del Autor</string>
+    <string name="estadoManga">Estado del manga</string>
+    <string name="puntuacionManga">Puntuacion</string>
+    <string name="agregarManga">Agregar</string>
+    <string name="introducemanga">Introduce manga</string>
+    <string name="introduceautor">Introduce el Autor</string>
+
+
+</resources>
